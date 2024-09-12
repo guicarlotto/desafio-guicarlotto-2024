@@ -127,4 +127,4 @@ class RecintosZoo {
   } // Essa função vai formatar a saída da função (analisaRecintos) conforme demanda o teste.
 }
 
-export { RecintosZoo };
+export { RecintosZoo as RecintosZoo };
